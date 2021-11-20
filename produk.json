@@ -1,0 +1,20 @@
+{
+    "produk": [
+        {
+            "idProduk": 1,
+            "namaProduk": "Cosmic Jacket Goldwing Original",
+            "harga": "Rp280.000,00",
+            "quantity": 2,
+            "berat": "550 gram",
+            "deskripsi": "Cosmic Jacket merupakan jaket yang sangat fungsional"
+        },
+        {
+            "idProduk": 2,
+            "namaProduk": "kaos distro",
+            "harga": "Rp.50.000,00",
+            "quantity": 4,
+            "berat": "120 gram",
+            "deskripsi": "baju kaos yang berkualitas terbaik"
+        }
+    ]
+}

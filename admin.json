@@ -1,0 +1,14 @@
+{
+    "admin": [
+        {
+            "nameAdmin": "Nadira Fawziyya Masnur",
+            "username": "nadiraFM",
+            "password": "i2c"
+        },
+        {
+            "nameAdmin": "Azka Habibi Masnur",
+            "username": "AzkaHM",
+            "password": "i2c2"
+        }
+    ]
+}
